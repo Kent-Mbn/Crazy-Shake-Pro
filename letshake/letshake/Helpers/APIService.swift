@@ -13,7 +13,7 @@ public class APIService:NSObject {
     
     //MARK: SERVER IP
     //public let SERVER_IP:String! = "http://172.20.2.19"
-    public let SERVER_IP:String! = "http://letshake.huynhphongchau.com"
+    
     //public let SERVER_PORT:String! = "8080"
     
     //MARK: API
