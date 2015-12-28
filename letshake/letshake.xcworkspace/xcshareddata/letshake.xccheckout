@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>87B19381-94EC-43B5-9BB1-01DD7879D98D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>letshake</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EDB42B705D2549D112D7E755EA26160585B9DC33</key>
+		<string>https://gitlab.com/huynhphongchau/Letshake.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>letshake/letshake.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EDB42B705D2549D112D7E755EA26160585B9DC33</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://gitlab.com/huynhphongchau/Letshake.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EDB42B705D2549D112D7E755EA26160585B9DC33</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EDB42B705D2549D112D7E755EA26160585B9DC33</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Letshake</string>
+		</dict>
+	</array>
+</dict>
+</plist>

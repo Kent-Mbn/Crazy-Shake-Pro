@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BA311D1226FCFFF77050A21D6C8A62C35E0E3EF8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BA311D1226FCFFF77050A21D6C8A62C35E0E3EF8" : 0,
+    "EDB42B705D2549D112D7E755EA26160585B9DC33" : 0,
+    "8A2FC641E042D256BAE9D8D2ABD82F5EB3F835AE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "87B19381-94EC-43B5-9BB1-01DD7879D98D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BA311D1226FCFFF77050A21D6C8A62C35E0E3EF8" : "Crazy%20Shake%20Pro\/",
+    "EDB42B705D2549D112D7E755EA26160585B9DC33" : "Letshake",
+    "8A2FC641E042D256BAE9D8D2ABD82F5EB3F835AE" : "BITBUCKET\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "letshake",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "letshake\/letshake.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/kentphong\/crazy-shake-lite.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8A2FC641E042D256BAE9D8D2ABD82F5EB3F835AE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/kentphong\/crazy-shake-pro.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BA311D1226FCFFF77050A21D6C8A62C35E0E3EF8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/gitlab.com\/huynhphongchau\/Letshake.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EDB42B705D2549D112D7E755EA26160585B9DC33"
+    }
+  ]
+}
